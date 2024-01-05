@@ -1,11 +1,9 @@
-from PyQt5.QtWidgets import QWidget
 from PyQt5 import QtCore, QtGui, QtWidgets
 from pyqtgraph import PlotWidget
 import sys
 from ApplicationManager import AppManager
-from PyQt5.QtWidgets import QApplication, QGraphicsScene, QGraphicsView, QGraphicsRectItem
+from PyQt5.QtWidgets import QGraphicsView
 from pyqtgraph import ScatterPlotItem
-from math import sqrt
 import pyqtgraph as pg
 
 class PlotWidget1(PlotWidget):

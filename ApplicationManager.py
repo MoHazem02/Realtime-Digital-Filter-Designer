@@ -1,7 +1,7 @@
 from Classes import *
 from PyQt5.QtWidgets import QFileDialog
-import wfdb
 import warnings
+import pandas as pd
 
 
 class AppManager:

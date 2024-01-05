@@ -1,5 +1,5 @@
-import numpy as np, pandas as pd
-from scipy.signal import freqz, lfilter, filtfilt, butter, zpk2tf
+import numpy as np
+from scipy.signal import freqz, lfilter
 from scipy import signal
 from PyQt5.QtCore import QTimer
 class Signal:
