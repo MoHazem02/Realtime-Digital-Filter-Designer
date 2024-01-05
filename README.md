@@ -1,6 +1,12 @@
 # Realtime Digital Filter Designer
 
-![Realtime Digital Filter Designer](https://your-image-link-here.jpg)
+![image](https://github.com/MoHazem02/Realtime-Digital-Filter-Designer/assets/66066832/b2bb6b66-2e88-472c-a49a-b424d06147e0)
+
+![image](https://github.com/MoHazem02/Realtime-Digital-Filter-Designer/assets/66066832/1abcb0a0-e31f-484f-8f9d-3b4c7b499332)
+
+
+![image](https://github.com/MoHazem02/Realtime-Digital-Filter-Designer/assets/66066832/1edbae27-a28f-41d1-a5a8-bf5124943ad3)
+
 
 ## Overview
 
