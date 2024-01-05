@@ -52,7 +52,7 @@ Realtime Digital Filter Designer is a desktop application developed in Python us
 3. Run the application:
 
     ```bash
-    python main.py
+    python application.py
     ```
 
 ## Usage
